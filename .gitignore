@@ -1,0 +1,7 @@
+# Power BI backup files
+*.pbix.bak
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
